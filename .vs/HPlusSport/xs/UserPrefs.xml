@@ -2,12 +2,27 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.HPlusSport.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HPlusSport.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="HPlusSport.API/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="HPlusSport.API/Controllers/ProductsController.cs" Line="114" Column="47" />
+      <File FileName="HPlusSport.API/Models/Category.cs" Line="7" Column="51" />
+      <File FileName="HPlusSport.API/Models/Product.cs" Line="10" Column="19" />
+      <File FileName="HPlusSport.API/Models/ShopContext.cs" Line="17" Column="33" />
+      <File FileName="HPlusSport.API/Models/ModelBuilderExtensions.cs" Line="1" Column="1" />
+      <File FileName="HPlusSport.API/Program.cs" Line="8" Column="34" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="HPlusSport" expanded="True" selected="True">
+            <Node name="HPlusSport.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
